@@ -29,6 +29,19 @@ main {
     gap: 1vw;
 }
 
+.botoes {
+    position: absolute;
+    left:38%;
+    bottom: 5%;
+   display: flex;
+   gap: 35px;
+}
+ 
+.cores {
+    font-size: 16px;
+    width: auto;
+}
+
 .robotron {
     /* background: url(../img/estrutura.png) no-repeat; */
     background-position: center center;
